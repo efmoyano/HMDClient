@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HMD Client</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="serverIp">Server Ip</string>
+    <string name="serverPort">Port</string>
+    <string name="find">Find</string>
+    <string name="connect">Connect</string>
+    <string name="disconect">Disconnect</string>
+    <string name="refreshInterval">Refresh Interval</string>
+    <string name="delayTimeInfo">0</string>
+    <string name="change">Change</string>
+    <string name="title_activity_rtsp_client">RtspClientActivity</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="imagen">imageDescription</string>
+
+</resources>
